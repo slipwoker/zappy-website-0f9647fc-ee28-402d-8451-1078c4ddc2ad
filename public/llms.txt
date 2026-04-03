@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Step into Nael&#39;s Barbershop, the central barber shop redefining grooming with precision cuts, clean fades, and a legacy built on craft. Book your seat today.
+
+### Services
+https://example.com/services
+From sharp fades to classic trims, explore every grooming service at your main street barber shop. Nael&#39;s delivers quality you can see and confidence you can feel.
+
+### About
+https://example.com/about
+Meet the master behind the chair. Nael&#39;s Barbershop is a legacy barbershop built on passion, skill, and a vision to make every client leave looking their absolute best.
+
+### Contact
+https://example.com/contact
+Ready for a cut that turns heads? Reach out to the central barber shop everyone&#39;s talking about. Find us, call us, or drop in — Nael&#39;s Barbershop is ready for you.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
